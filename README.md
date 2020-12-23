@@ -1,3 +1,4 @@
+![image](./github-image.jpg)
 ## Hi there 👋 I'm Tahmasib Shirinzadeh from Azerbaijan :azerbaijan:
 
 I work as a front-end developer nearly 2 years of experience. I discovered my passion for design and web development during university years.
