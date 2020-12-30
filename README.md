@@ -1,7 +1,7 @@
 ![image](./github-image.jpg)
 ## Hi there 👋 I'm Tahmasib Shirinzadeh from Azerbaijan :azerbaijan:
 
-I work as a front-end developer nearly 2 years of experience. I discovered my passion for design and web development during university years.
+I work as a front-end developer more than 2 years of experience. I discovered my passion for design and web development during university years.
 
 ➡️ In my current job I'm focused on **Vue/Vuex/Vue-router, AJAX, APIs, I use Sass, jQuery, NPM package manager, ESLint, Git version control** in projects. 
 🔗 I am good at converting PSD file to HTML template, designing websites 
@@ -19,7 +19,8 @@ I work as a front-end developer nearly 2 years of experience. I discovered my pa
 - Vue.js (Vuex, Vue-router)
 - RESTful APIs
 - Gulp.js
-- Git version control
+- ESLint
+- GIT version control
 - NPM package manager
 - Firebase: Authentication, Cloud Firestore
 - Adobe Photoshop
