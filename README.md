@@ -31,8 +31,6 @@ I work as a front-end developer more than 2 years of experience. I discovered my
 
 e-mail: shirinzadeh.tahmasib@gmail.com
 
-twitter: https://twitter.com/tahmasibb
-
 linkedin: https://www.linkedin.com/in/tahmasib-shirinzadeh/
 -->
 
