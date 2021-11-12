@@ -21,9 +21,8 @@ I work as a front-end developer more than 2 years of experience. I discovered my
 - Gulp.js
 - ESLint
 - GIT version control
-- NPM package manager
-- Firebase: Authentication, Cloud Firestore
 - Adobe Photoshop
+- Figma
 
 ---
 
