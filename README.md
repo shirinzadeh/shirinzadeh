@@ -3,12 +3,6 @@
 
 I work as a front-end developer more than 2 years of experience. I discovered my passion for design and web development during university years.
 
-➡️ In my current job I'm focused on **Vue/Vuex/Vue-router, AJAX, APIs, I use Sass, jQuery, NPM package manager, ESLint, Git version control** in projects. 
-🔗 I am good at converting PSD file to HTML template, designing websites 
-🌱 I’m currently learning Vue.js
-✨ I'm well organized, self-motivated, strategic-planner
-⚡ Fun fact: I am introvert
-
 ### Skills:
 
 - HTML5
