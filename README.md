@@ -26,9 +26,9 @@ I work as a front-end developer more than 2 years of experience. I discovered my
 
 Plast+: https://plastplus.netlify.app/
 
-shirinzadeh.github.io/bookworm/
+https://shirinzadeh.github.io/bookworm/
 
-coffeemaster.netlify.app
+https://coffeemaster.netlify.app
 
 https://shirinzadeh.github.io/WatchWorld-HTML-template/
 
