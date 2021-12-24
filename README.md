@@ -18,6 +18,14 @@ I work as a front-end developer more than 2 years of experience. I discovered my
 - Adobe Photoshop
 - Figma
 
+ I have added links to some of my works below:
+ 
+"Elyx" car call service: https://wellyx.netlify.app/
+"Velocity" cargo: https://velocity.az/
+Plast+: https://plastplus.netlify.app/
+shirinzadeh.github.io/bookworm/
+coffeemaster.netlify.app
+https://shirinzadeh.github.io/WatchWorld-HTML-template/
 ---
 
 ### Get in touch
