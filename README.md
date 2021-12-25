@@ -26,7 +26,7 @@ I work as a front-end developer 3 years of experience. I discovered my passion f
 
 Plast+: https://plastplus.netlify.app/
 
-Gomedia: hhtps://gomedia.az
+Gomedia: https://gomedia.az
 
 https://shirinzadeh.github.io/bookworm/
 
