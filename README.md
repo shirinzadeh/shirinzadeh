@@ -1,7 +1,7 @@
 ![image](./github-image.jpg)
 ## Hi there 👋 I'm Tahmasib Shirinzadeh from Azerbaijan :azerbaijan:
 
-I work as a front-end developer more than 2 years of experience. I discovered my passion for design and web development during university years.
+I work as a front-end developer 3 years of experience. I discovered my passion for design and web development during university years.
 
 ### Skills:
 
@@ -25,6 +25,8 @@ I work as a front-end developer more than 2 years of experience. I discovered my
 "Velocity" cargo: https://velocity.az/
 
 Plast+: https://plastplus.netlify.app/
+
+Gomedia: hhtps://gomedia.az
 
 https://shirinzadeh.github.io/bookworm/
 
